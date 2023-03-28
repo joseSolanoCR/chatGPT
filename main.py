@@ -3,8 +3,8 @@
 import openai
 from transformers import pipeline
 
-OPENAI_API_KEY = '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'
-org_id = 'org-N4mFsDIcRyohiqOCUpvKUHRy'
+OPENAI_API_KEY = ""
+org_id = ""
 
 
 openai.organization = org_id
